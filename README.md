@@ -1,9 +1,9 @@
 ## 下載 Google 圖片
 ### 安裝
 ```
-pip insall google_images_download_jeng
+pip insall googleImagesDownloadJeng
 ```
 ### 含入模組
 ```
-from google_images_download_jeng import google_images_download
+from googleImagesDownloadJeng import google_images_download
 ```
